@@ -281,8 +281,8 @@ img {
 
 .about__img {
     /* margin: 0 !important; */
-    width: 450px !important;
-    height: 400px;
+    width: 300px !important;
+    height: 250px;
     background-image: url("../img/about.jpg");
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
